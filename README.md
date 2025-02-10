@@ -6,22 +6,22 @@ JARVIS is a virtual assistant built using Python that can perform various tasks 
 
 Features
 
-> Speech Recognition: JARVIS can listen to your voice commands and respond accordingly.
-> Web Navigation: Open websites like Google, Youtube, LinkedIn, and Facebook through voice commands.
-> Music Playback: Play songs from your music library based on voice commands (assuming you have a musicLibrary module set up).
-> News Updates: Get the latest news headlines using voice commands.
-> Question Answering: Ask JARVIS questions and get answers powered by Google Generative AI. (Requires a valid API key)
+- Speech Recognition: JARVIS can listen to your voice commands and respond accordingly.
+- Web Navigation: Open websites like Google, Youtube, LinkedIn, and Facebook through voice commands.
+- Music Playback: Play songs from your music library based on voice commands (assuming you have a musicLibrary module set up).
+- News Updates: Get the latest news headlines using voice commands.
+- Question Answering: Ask JARVIS questions and get answers powered by Google Generative AI. (Requires a valid API key)
 
 Installation
 Prerequisites:
 
-> Python 3 (https://www.python.org/downloads/)
-> pip (usually comes bundled with Python)
+- Python 3 (https://www.python.org/downloads/)
+- pip (usually comes bundled with Python)
 
 Installation Steps:
 
-> Clone this repository or download the code files.
-> Open a terminal or command prompt1 and navigate to the project director
+- Clone this repository or download the code files.
+- Open a terminal or command prompt1 and navigate to the project director
 
 Install the required libraries:
 Bash
